@@ -12,5 +12,6 @@ To follow this project, please install the following dependencies:
 
 ## Data
 The data was gathered through scraping [FBref](https://fbref.com/en/)
+
 The scrapping script will be added soon :)
 
